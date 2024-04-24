@@ -8,7 +8,7 @@ This is an image tileset created from 1:10,000,000 map of Antarctica published i
 FIXME
 
 ## Technical Specifications
-Template URL: https://optgeo.github.io/tma/zxy/{z}/{x}/{y}
+Template URL: https://optgeo.github.io/tma/zxy/{z}/{x}/{y}.webp
 
 z == 1..5
 

@@ -10,7 +10,9 @@ FIXME
 ## Technical Specifications
 Template URL: https://optgeo.github.io/tma/zxy/{z}/{x}/{y}.webp
 
-z == 1..5
+z: 1..5
+
+tile size: 512 x 512
 
 ## Recipe and Log
 https://github.com/UNopenGIS/7/issues/466

@@ -10,7 +10,7 @@ FIXME
 ## Technical Specifications
 Template URL: https://optgeo.github.io/tma/zxy/{z}/{x}/{y}.webp
 
-z: 1..5
+z: 0..5
 
 tile size: 512 x 512
 

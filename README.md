@@ -5,7 +5,7 @@
 This is an image tileset created from 1:10,000,000 map of Antarctica published in 2024-04 by Geospatial Information Authority of Japan (GSI; 国土地理院).
 
 ## Demo
-FIXME
+https://observablehq.com/d/d980baa9701dd18c
 
 ## Technical Specifications
 Template URL: https://optgeo.github.io/tma/zxy/{z}/{x}/{y}.webp
